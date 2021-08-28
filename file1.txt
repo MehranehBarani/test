@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 first line changed by main
 second 
+=======
+first line changed
+second line
+>>>>>>> ali
